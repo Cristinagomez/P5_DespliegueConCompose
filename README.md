@@ -2,8 +2,8 @@
 
 🔊 Recomendaciones básicas:
 
-*_Desplegar apache en último lugar. Puede generar problemas con el puerto, impidiendo que otra aplicación use el puerto usado incluso cuando se ha eliminado el contenedor y la imagen de apache._
-*_Parar las otras aplicaciones si usan el mismo puerto o cambiar los puertos para que sean diferentes._
+* _Desplegar apache en último lugar. Puede generar problemas con el puerto, impidiendo que otra aplicación use el puerto usado incluso cuando se ha eliminado el contenedor y la imagen de apache._
+* _Parar las otras aplicaciones si usan el mismo puerto o cambiar los puertos para que sean diferentes._
 
 ## Wordpress 📄
 
