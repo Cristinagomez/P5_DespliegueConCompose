@@ -56,3 +56,17 @@
 * Abre el navegador
 
 📌 Fuente: https://hub.docker.com/_/mediawiki
+
+## Apache 📄
+
+* Descarga la carpeta apache.
+* En visual studio code abre la carpeta.
+* Abre un terminal y ejecuta el comando docker-compose -d
+* Abre en el navegador.
+
+📌 Fuente: https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Simple-Apache-docker-compose-example-with-Dockers-httpd-image
+
+Se cambio la ruta respecto al ejemplo que aparece en la web.
+
+---
+🙎 Cristina Gómez Campos
