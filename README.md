@@ -7,7 +7,7 @@
 
 ## Wordpress 📄
 
-* Descarga la carpeta wordpress.
+* Descarga la carpeta wordpress (con el archivo docker-compose.yml).
 * En visual studio code abre la carpeta.
 * Abre un terminal y ejecuta el comando docker-compose -d
 * Abre en el navegador.
@@ -47,7 +47,7 @@
 ```
 * Sigue los pasos del navegador. Utliza la opción: Ya me aburrí, para simplificar los pasos.
 * Descarga el documento LocalSettings.php y copialo en la carpeta mediawiki.
-* Abre el documento docker-compose.yml t descomenta la siguiente línea:
+* Abre el documento docker-compose.yml y descomenta la siguiente línea:
 
 ```
   # - ./LocalSettings.php:/var/www/html/LocalSettings.php
