@@ -66,7 +66,7 @@
 
 📌 Fuente: https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Simple-Apache-docker-compose-example-with-Dockers-httpd-image
 
-Se cambio la ruta respecto al ejemplo que aparece en la web.
+Se cambió la ruta respecto al ejemplo que aparece en la web.
 
 ---
 🙎 Cristina Gómez Campos
