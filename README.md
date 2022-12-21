@@ -9,7 +9,7 @@
 
 * Descarga la carpeta wordpress (con el archivo docker-compose.yml).
 * En visual studio code abre la carpeta.
-* Abre un terminal y ejecuta el comando docker-compose -d
+* Abre un terminal y ejecuta el comando docker-compose up -d
 * Abre en el navegador.
 
 📌 Fuente: https://hub.docker.com/_/wordpress
@@ -18,7 +18,7 @@
 
 * Descarga la carpeta adminer.
 * En visual studio code abre la carpeta.
-* Abre un terminal y ejecuta el comando docker-compose -d
+* Abre un terminal y ejecuta el comando docker-compose up -d
 * Abre en el navegador.
 
 📌 Fuente: https://hub.docker.com/_/adminer
@@ -27,7 +27,7 @@
 
 * Descarga la carpeta guestbook.
 * En visual studio code abre la carpeta.
-* Abre un terminal y ejecuta el comando docker-compose -d
+* Abre un terminal y ejecuta el comando docker-compose up -d
 * Abre en el navegador.
 
 📌 Fuente: https://josedom24.github.io/curso_docker_2022/sesion4/guestbook.html
@@ -36,7 +36,7 @@
 
 * Descarga la carpeta mediawiki.
 * En visual studio code abre la carpeta.
-* Abre un terminal y ejecuta el comando docker-compose -d
+* Abre un terminal y ejecuta el comando docker-compose up -d
 * Abre en el navegador.
 * Para conectar la base de datos usa la ip que aparece en el documento resultante de hacer click con el botón derecho, inspect en el contenedor de la base de datos.
 
@@ -52,7 +52,7 @@
 ```
   # - ./LocalSettings.php:/var/www/html/LocalSettings.php
 ```
-* En el terminal, sin parar los contenedores, ejecuta el comando docker-compose -d
+* En el terminal, sin parar los contenedores, ejecuta el comando docker-compose up -d
 * Abre el navegador
 
 📌 Fuente: https://hub.docker.com/_/mediawiki
@@ -61,7 +61,7 @@
 
 * Descarga la carpeta apache.
 * En visual studio code abre la carpeta.
-* Abre un terminal y ejecuta el comando docker-compose -d
+* Abre un terminal y ejecuta el comando docker-compose up -d
 * Abre en el navegador.
 
 📌 Fuente: https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Simple-Apache-docker-compose-example-with-Dockers-httpd-image
